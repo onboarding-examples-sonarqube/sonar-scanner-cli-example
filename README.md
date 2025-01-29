@@ -11,7 +11,7 @@ We have multiple CI/CD Pipeline examples, one for connecting to SonarQube Server
 - On triggers are set to only execute on changes to specific branches and a specific directory in the project, this can be modified with whatever trigger you would want to use.
 - They have shallow fetch set to 0. this is required for SonarScanner to properly analyze your project.  
 - For more information on how to limit your analysis scope and parameters available, please check **SonarScanner Analysis Scope** and **SonarScanner Analysis Parameters** in the Important Links section.
-- The action used for SonarScanner Analysis is **sonarqube-scan-action**, which applies for both SonarQube Server and SonarQube Cloud. But they require different parameters. Examples for both are provided.
+- The action used for SonarScanner Analysis is `**sonarqube-scan-action**`, which applies for both SonarQube Server and SonarQube Cloud. But they require different parameters. Examples for both are provided.
     - SonarQube Cloud Example: sonarqube-cloud.yml  
     - SonarQube Server Example: sonarqube-server.yml 
 
