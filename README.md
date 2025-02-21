@@ -37,3 +37,6 @@ Example:
           -Dsonar.sources=src/
           -Dsonar.qualitygate.wait=true
 ```
+
+__**For more examples please check:**__
+[Onboarding Examples](https://github.com/sonar-solutions/Onboarding-Examples-List)
