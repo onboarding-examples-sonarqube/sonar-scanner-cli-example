@@ -25,7 +25,7 @@ We have multiple CI/CD Pipeline examples, one for connecting to SonarQube Server
 [SonarScanner Analysis Scope](https://docs.sonarsource.com/sonarqube-server/latest/project-administration/analysis-scope/)  
 [SonarScanner Analysis Parameters](https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/analysis-parameters/)  
 
-[Languages SonarScanner Analysis Extra Information]([https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/languages/java/](https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/languages/overview/)  
+[Languages SonarScanner Analysis Extra Information]([https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/languages/java](https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/languages/overview/)  
 [Java Test Coverage](https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/test-coverage/java-test-coverage/)  
 
 ## Example to Fail the Pipeline on Quality Gate Failure
