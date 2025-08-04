@@ -38,5 +38,5 @@ jobs:
             -Dsonar.projectBaseDir=sonar-scanner/
             -Dsonar.organization=github-onboarding-examples
             -Dsonar.projectKey=${PROJECT_KEY}
-            -Dsonar.projectName=${PROJECT_KEY}
+            -Dsonar.projectName="Onboarding Example - GitHub - SonarScanner CLI Example"
   
