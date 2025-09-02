@@ -33,7 +33,7 @@ jobs:
         SONAR_HOST_URL: ${{ vars.SONAR_HOST_URL }}
         GITHUB_REPOSITORY: ${{ github.repository }}
       with:
-        args: >
+        args: |
           -Dsonar.verbose=true
           -Dsonar.sources=src/
           -Dsonar.projectBaseDir=sonar-scanner/
